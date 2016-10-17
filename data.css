@@ -1,0 +1,26 @@
+h1 {
+border: medium double ;
+position: static;
+top: 0pc;
+font-size: 15px;
+background-color: white;
+z-index: 50;
+float: left;
+margin-left: 1pc;
+margin-top: 1.5pc;
+margin-right: 50pc;
+min-width: 12pc;
+max-width: 12pc;
+}
+h2 {
+border-style: solid;
+min-width: 0%;
+background-color: white;
+margin-left: 14pc;
+position: absolute;
+margin-right: 3pc;
+float: right;
+max-width: 70%;
+width: 70%;
+font-size: 15pt;
+}
